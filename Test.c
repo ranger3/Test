@@ -2,6 +2,8 @@
 #include <stdlib.h>
 
 int main(int argc, char const *argv[]) {
-  /* code */
+
+  printf("This is a test.%s\n", );
+  
   return 0;
 }
